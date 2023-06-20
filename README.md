@@ -1,2 +1,2 @@
 # VGU
-All the code of VGU's module
+All the source code of modules throughout VGU years may be published here if have to
